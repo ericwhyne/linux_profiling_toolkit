@@ -1,0 +1,5 @@
+sudo apt-get install linux-tools-common
+sudo apt-get install linux-tools-3.13.0-30-generic
+sudo apt-get install valgrind
+sudo apt-get install kcachegrind
+
